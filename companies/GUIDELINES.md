@@ -43,3 +43,15 @@ The admins will take a look at your changes, and may deny, request changes, or a
 
 After getting approved, your changes will get merged to the main repo, and your company is officially live! 
 Do make sure to have a physical place for it, though.
+
+## Useful links
+
+[CRSS Website](https://crss.cc)
+
+[CRSS Repository](https://github.com/crss666/crss)
+
+[Companies folder in the CRSS repo](https://github.com/CRSS666/CRSS/tree/crss/Companies)
+
+[Blurbank's folder in the CRSS repo](https://github.com/CRSS666/CRSS/tree/crss/Companies/Republic%20of%20Panorama/Blurbank%20Inc)
+
+[CRSS Discord](https://discord.gg/8exzHJQh7p)
