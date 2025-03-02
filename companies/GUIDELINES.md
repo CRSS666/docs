@@ -1,10 +1,13 @@
 # Companies
 
-This document will explain in detail what are companies in CRSS and how do they work. Keep in mind, they're mainly for RP, but we take these things quite seriously... Perhaps too seriously.
+This document will explain in detail what are companies in CRSS and how do they work.
+Keep in mind, they're mainly for RP, but we take these things quite seriously... Perhaps too seriously.
 
 ## What are companies in CRSS?
 
-Companies are all businesses in CRSS that want to be registered as "official". Of course, you're not *forced* to do this, but having your company be on the repo means it's easier to have it known by people, and perhaps be featured in CRSS' YouTube videos.
+Companies are all businesses in CRSS that want to be registered as "official". Of course,
+you are not *forced* to do this, but having your company be on the repo means it's easier
+to have it known by people, and perhaps be featured in CRSS' YouTube videos.
 
 You can see the list of companies in CRSS [here](https://github.com/CRSS666/CRSS/tree/crss/Companies).
 
@@ -24,8 +27,11 @@ Companies have a few requirements to be able to be accepted into the main repo:
   - The README should consist of:
     - Company Name (Title)
     - Company description (Body)
+    - Subsidiaries (Title) (If applicable)
+    - Subsidiaries (Body) (If applicable)
     - Owners (Title, followed by owners in a list)
     - Date of creation
+- All Subsidiaries (if any) should be subfolders in the Parent Companies' main folder.
 
 As an example, check [Blurbank Inc.](https://github.com/CRSS666/CRSS/tree/crss/Companies/Republic%20of%20Panorama/Blurbank%20Inc):
 
