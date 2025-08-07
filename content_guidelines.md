@@ -1,27 +1,33 @@
-These guidelines are valid for all content, including any “Advertisements”, that get published in CRSS’ Social/Media profiles (Bluesky, Instagram, Spotify, TikTok, YouTube)  
-*This document is written somewhat too seriously, but please don't feel too pressured by it, I just want it to look good and keep our content consistent and somewhat mature.*
+# CRSS Content Guidelines
+These guidelines are valid for all content, including any “Advertisements”, that get published in CRSS’ Social/Media profiles (Bluesky, Instagram, Spotify, TikTok, YouTube)
+
+###### *This document is written somewhat too seriously, but please don't feel too pressured by it, I just want it to look good and keep our content consistent and somewhat mature.*
 
 # Introduction
 
-If you're here, you already know what CRSS is and how our content is like.  
-I'm making this document because I want to keep our stuff consistent and neat, instead of an unorganized mess.  
+If you're here, you probably already know what CRSS is and what our content is like.
+
+If you’re new, welcome to Clyde's Real Survival SMP, CRSS for short. We are a small SMP server that updates to every version starting from b1.0 on the 1st of every month. We have a small community of players that are mostly very friendly and welcoming to new players.  
+While we’re mostly a Minecraft server, we also make some content and post it on websites such as YouTube and TikTok. The last page has some [Useful Links](https://docs.google.com/document/d/1bFOISvwRrsC7LxsurXtJGFPOMR18nbQ0wknw0OrzFk8/edit?tab=t.0#heading=h.w67x119j7i3z), such as our profiles on Social/Media websites.
+
+I'm making this document because I want to keep our stuff consistent and neat, instead of an unorganized mess. Please remember to not take these *too* seriously, we’re not a big evil megacorp, but we *do* want to avoid trouble.  
 Some of these guidelines mostly apply to Quartz News Network and XYZ News, but any other content should follow these guidelines so we avoid problems with the websites we post on.
 
-“Content” means any video, image, or text we post on any of our profiles in social media (Bluesky, Insta, etc) or other media streaming services (Spotify, YouTube, etc). It also includes any silly thing like the Quartz Media Employment Form.
+“Content” means any video, image, or text we post on any of our profiles in social media (Bluesky, Insta, etc) or other media streaming services (Spotify, YouTube, etc). It also includes any silly thing like the Quartz Media Employment Form (PDF).
 
 The branding used (CRSS, QNN, XYZ etc logos) shouldn't be remade from scratch, screenshotted or rendered in low-res but rather taken from this paste or our repos. Music composed by WorldWidePixel *for* CRSS will also be available here, if you use any of their tracks, credit it as “Music by WorldWidePixel, © 2024-2025 All Rights Reserved” instead of the track names directly.
 
 # Tone & Voice
 
-Our content should remain in-universe, and should mostly stay enthusiastic and joyful. This doesn't mean serious or dramatic tones aren't permitted, but if you're making something similar to QNN, it would feel a little out of place considering our past things.  
+Our content should remain in-universe, and should mostly stay enthusiastic and joyful. This doesn't mean serious or dramatic tones aren't permitted, but if you're making something similar to QNN, a news show which is mostly parodying real news networks but also reporting on server events, it would feel a little out of place considering our past things.  
 Satire series like QNN shouldn't sound like explicit sarcasm, it needs to pretend like everything is real and talk about it as if it were real.
 
 For example, when talking about a certain house or PoI:
 
 * **Do** say: “This house in the Republic of Panorama is very cool\!”  
-* **Don't** say: “This Minecraft house on our server is very cool\!”
+* **Don't** say: “This Minecraft house on our Minecraft server is very cool\!”
 
-The “Universe” CRSS is set in doesn't *know* it's in Minecraft, so mentioning Minecraft as a game you're in should be avoided. One exception is when talking about the “Romanian Federation of **Minecraft**”, but in that case just pretend it's a weird name Poly decided to give it.  
+The “Universe” CRSS is set in doesn't *know* it's in Minecraft, so mentioning Minecraft as a game you're in should be avoided.  
 The exceptions to this are advertisements, as they may mention external content, such as YouTube channels, Minecraft shaders, servers, events or resource packs.  
 Whenever you want to talk about things like mods, follow what we did for Blanketcon: It's set in an alternate universe and mods are creations made by people they like to call “Mod Developers”.
 
@@ -30,9 +36,12 @@ Whenever you want to talk about things like mods, follow what we did for Blanket
 By the title of this one it should be clear I'm following a vague template that somewhat applies — we are not a registered trademark/brand, and we merely hold copyright to our content, server and names, but we should still follow these things to avoid issues with any serious brand.
 
 * **Do**: Use “Official Names”, as in names that we have a consensus that won't have any issues with real brands (QNN, BlurBank, Northern)  
+  * The exception to this is if you *own* the “brand”. For example, we mention Pridecraft Studios as Blurry owns both Pridecraft and CRSS  
 * **Don't**: Use or mention any real life brand, country or artist’s name in a way that indicates affiliation, approval or endorsement. This also applies for criticizing or mentioning current IRL events. (USA, Tesla, Trump)  
-  *Example*:  
-  ✅ “Currently homeless? Get a free apartment at the Northern buildings\!”  
+  * *Example*:
+
+  ✅ “Currently homeless? Get a free apartment at the Northern buildings\!”
+
   ❌ “RedBull gives you elytras”
 
 # Content Types & Platforms
@@ -59,12 +68,16 @@ These are things you should avoid at all costs when making any form of content t
 * Politics and real world events  
   * Avoid discussion of real world politics and events such as Trump's tariffs or the Iran × Israel × USA conflicts;  
   * Humorous references to past events, not including wars, and not disrespecting any real world nation or ethnicity is fine. *Example: “Lupancham cuts aids to 3 Chunkian countries” references the Fox News report “Trump cuts aids to 3 Mexican countries”*;  
-  * “Politics” should be mostly kept to in-universe political events.
+  * “Politics” should be mostly kept to in-universe political events.  
+* AI  
+  * **Using AI to make any asset in your content is strictly prohibited.**
 
 # Advertising
 
 If you’ve watched any episodes of Quartz News Network before, you’ll know that we have little ads that play either in the middle of the episode or right at the end.  
-This section aims to clarify what the ads are, what they are not, and what you should have in mind when making one
+This section aims to clarify what the ads are, what they are not, and what you should have in mind when making one.
+
+**CRSS will never promote any commercial product.**
 
 ## What they are
 
@@ -83,7 +96,7 @@ Here’s some things you should keep in mind when making your ad. These are *mos
   * There’s no minimum or maximum showtime really, but if you make an ad that’s way too long, you’ll just bore people out ~~and make them hate you smh~~  
   * The ads should aim to not deviate too much from the tone of the video – it could make the rest of the watching session not feel as entertaining  
 * Take feedback\!  
-  * The \#content channel on the discord isn’t just for the Community Managers. If you have any idea for an ad – or even a full on video – feel free to talk about it and ask for help with it on the \#content channel.  
+  * The [\#content](https://discord.com/channels/1195393418151596032/1387579982103974043) channel on the discord isn’t just for the Community Managers. If you have any idea for an ad – or even a full on video – feel free to talk about it and ask for help with it on the [\#content](https://discord.com/channels/1195393418151596032/1387579982103974043) channel.  
 * Remember to have fun.  
   * This is the most strict rule of them all – if you're not having fun, it's not worth the work you'll put into it. If you begin to feel stressed or burnt out, take a break.
 
@@ -94,9 +107,10 @@ As I said in ‘Brand Representation’:
 *“By the title of this one it should be clear I'm following a vague template that somewhat applies”*
 
 All content that's meant to be posted in any of CRSS’ profiles must go through one or more of the Community Managers.  
-This isn't just because of moderation or anything, it's realistically the only way to let people upload stuff without giving them the credentials or permissions directly. We'll just also watch it beforehand to reject, approve or request changes to your content based on these guidelines.
+This isn't just because of moderation or anything, it's realistically the only way to let people upload stuff without giving them the credentials or permissions directly.  
+We'll also watch and/or read it beforehand to reject, approve or request changes to your content based on these guidelines.
 
-That's all, if you have any feedback, @ blurry on discord.
+That's all, folks\! If you have any feedback, @ blurry on discord.
 
 # Useful Links
 
